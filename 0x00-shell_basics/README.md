@@ -7,3 +7,4 @@
 # 6 - create a new directory in the /tmp/ directory
 # 7 - mv /tmp/betty /tmp/my_first_directory/
 # 8 - Delete the betty file in /tmp/my_first_directory
+# 9 - Delete the directory my_first_directory that is in the /tmp directory.
