@@ -6,3 +6,4 @@
 # 5 - Display current directory contetnts in long format, incluidng hidden files with user and ID's displayed numerically
 # 6 - create a new directory in the /tmp/ directory
 # 7 - mv /tmp/betty /tmp/my_first_directory/
+# 8 - Delete the betty file in /tmp/my_first_directory
