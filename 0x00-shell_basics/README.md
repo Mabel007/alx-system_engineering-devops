@@ -4,3 +4,4 @@
 # 3 - List the current directory contents in a long format
 # 4 -Display current directory contents including hidden files , use the long format
 # 5 - Display current directory contetnts in long format, incluidng hidden files with user and ID's displayed numerically
+# 6 - create a new directory in the /tmp/ directory
