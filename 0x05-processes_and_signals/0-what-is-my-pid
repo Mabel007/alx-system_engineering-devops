@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# PID - this script displays my PID
-echo &&
+# PID - this script display my PID
+
+echo $$
